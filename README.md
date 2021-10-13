@@ -4,12 +4,16 @@
 
 
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript logo"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript logo"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react logo"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node logo"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker logo"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="postgre logo"></code>
+<code><a src="https://www.javascript.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_js_official_icon_130509.png"/></a></code>
+<code><a src="https://reactjs.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_reactjs_icon_130205.png"/></a></code>
+<code><a src="https://www.typescriptlang.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_typescript_official_icon_130107.png"/></a></code>
+<code><a src="https://nodejs.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_node_icon_130301.png"/></a></code>
+<code><a src="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a></code>
+<code><a src="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a></code>
+<code><a src="https://www.python.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_python_icon_130221.png"/></a></code>
+<code><a src="https://tailwindcss.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_tailwind_icon_130128.png"/></a></code>
+<code><a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a></code>
+<code><a src="https://github.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_git_icon_130581.png"/></a></code>
 
 ### Some stats 💻
 
