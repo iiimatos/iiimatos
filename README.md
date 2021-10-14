@@ -16,14 +16,14 @@ Hi people, I'm **Ivan Matos**, a **Software Engineering student** 🚀 from Sant
 <code><a src="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a></code>
 <code><a src="https://github.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_git_icon_130581.png"/></a></code>
 
-### Some stats 💻
-
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=iiimatos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
 ### Interests 📍
   - Play videogame
   - Learn foreign languages
   - Python
+
+### Some stats 💻
+
+![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=iiimatos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ### Contact Me 🌎
 <p align="left">
