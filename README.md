@@ -17,7 +17,7 @@ Hi people, I'm **Ivan Matos**, a **Software Engineering student** 🚀 from Sant
 <code><a href="https://github.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_git_icon_130581.png"/></a></code>
 
 ### Interests 📍
-  - Play videogame
+  - Play videogames
   - Learn foreign languages
   - Python
 
