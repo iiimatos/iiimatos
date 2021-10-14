@@ -4,6 +4,7 @@
 
 Hi people, I'm **Ivan Matos**, a **Software Engineering student** 🚀 from Santo Domingo, Dominican Republic.
 
+
 <code><a src="https://www.javascript.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_js_official_icon_130509.png"/></a></code>
 <code><a src="https://reactjs.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_reactjs_icon_130205.png"/></a></code>
 <code><a src="https://www.typescriptlang.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_typescript_official_icon_130107.png"/></a></code>
@@ -19,7 +20,12 @@ Hi people, I'm **Ivan Matos**, a **Software Engineering student** 🚀 from Sant
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api?username=iiimatos&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-### Contact Me 
+### Interests 📍
+  - Play videogame
+  - Learn foreign languages
+  - Python
+
+### Contact Me 🌎
 <p align="left">
   <a src="https://www.linkedin.com/in/iv%C3%A1n-ernesto-matos-villar-a00b581b3/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Ivan Matos's LinkedIn Profile" height="30" width="30">
