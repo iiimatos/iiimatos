@@ -1,6 +1,6 @@
 ## Hi, I'm Ivan Matos 👨🏽‍💻
 
-<img align="right" alt="GIF" width="400" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+<img align="right" alt="GIF" width="350" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 Hi people, I'm **Ivan Matos**, a **Software Engineering student** 🚀 from Santo Domingo, Dominican Republic.
 
