@@ -1,20 +1,20 @@
-## Hi, I'm Ivan Matos 👨🏽‍💻
+## Hi, I'm Ivan Matos
 
 <img align="right" alt="GIF" width="350" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 Hi people, I'm **Ivan Matos**, a **Software Engineering student** 🚀 from Santo Domingo, Dominican Republic.
 
 
-<code><a href="https://www.javascript.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_js_official_icon_130509.png"/></a></code>
-<code><a href="https://reactjs.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_reactjs_icon_130205.png"/></a></code>
-<code><a href="https://www.typescriptlang.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_typescript_official_icon_130107.png"/></a></code>
-<code><a href="https://nodejs.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_node_icon_130301.png"/></a></code>
-<code><a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a></code>
-<code><a href="https://www.docker.com/"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a></code>
-<code><a href="https://www.python.org/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_python_icon_130221.png"/></a></code>
-<code><a href="https://tailwindcss.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_tailwind_icon_130128.png"/></a></code>
-<code><a href="https://getbootstrap.com/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a></code>
-<code><a href="https://github.com/"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_git_icon_130581.png"/></a></code>
+<code><a href="https://www.javascript.com"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_js_official_icon_130509.png"/></a></code>
+<code><a href="https://reactjs.org"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_reactjs_icon_130205.png"/></a></code>
+<code><a href="https://www.typescriptlang.org"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_typescript_official_icon_130107.png"/></a></code>
+<code><a href="https://nodejs.org"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_node_icon_130301.png"/></a></code>
+<code><a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a></code>
+<code><a href="https://www.docker.com"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a></code>
+<code><a href="https://golang.org"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_go_gopher_icon_130571.png"/></a></code>
+<code><a href="https://tailwindcss.com"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_tailwind_icon_130128.png"/></a></code>
+<code><a href="https://getbootstrap.com"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a></code>
+<code><a href="https://github.com"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_git_icon_130581.png"/></a></code>
 
 ### Interests 📍
   - Play videogames
