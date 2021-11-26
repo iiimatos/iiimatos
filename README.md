@@ -19,7 +19,7 @@ Hi people, I'm **Ivan Matos**, a **Software Engineering student** 🚀 from Sant
 ### Interests 📍
   - Play videogames
   - Learn foreign languages
-  - Python
+  - Microservices with golang
 
 ### Some stats 💻
 
