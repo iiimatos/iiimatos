@@ -11,7 +11,7 @@ Hi people, I'm **Ivan Matos**, a **Software Engineering student** 🚀 from Sant
 <code><a href="https://nodejs.org"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_node_icon_130301.png"/></a></code>
 <code><a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a></code>
 <code><a href="https://www.docker.com"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a></code>
-<code><a href="https://golang.org"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_go_gopher_icon_130571.png"/></a></code>
+<code><a href="https://dotnet.microsoft.com/en-us/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/csharp_original_logo_icon_146578.png"/></a></code>
 <code><a href="https://tailwindcss.com"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_tailwind_icon_130128.png"/></a></code>
 <code><a href="https://getbootstrap.com"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a></code>
 <code><a href="https://github.com"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_git_icon_130581.png"/></a></code>
