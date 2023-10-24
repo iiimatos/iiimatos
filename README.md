@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Ivan Matos</h1>
 <h3>A Software Engineer from Dominican Republic 🇩🇴</h3>
 
-- 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/jaiswaladi246/Python-4-DevOps)
-
 - 🌱 I’m currently learning **CQRS, MediatR, DDD (Domain Driven Design) & Clean Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iiimatos](https://github.com/iiimatos)
