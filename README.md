@@ -1,41 +1,21 @@
-## Hi, I'm Ivan Matos
+<h1>Hi 👋, I'm Ivan Matos</h1>
+<h3>A Software Engineer from Dominican Republic 🇩🇴</h3>
 
-<img align="right" alt="GIF" width="350" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm a **Software Engineering student** 🚀 from Santo Domingo, Dominican Republic!!!.
+- 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/jaiswaladi246/Python-4-DevOps)
 
+- 🌱 I’m currently learning **CQRS, MediatR, DDD (Domain Driven Design) & Clean Architecture**
 
-<code><a href="https://www.javascript.com"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_js_official_icon_130509.png"/></a></code>
-<code><a href="https://reactjs.org"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_reactjs_icon_130205.png"/></a></code>
-<code><a href="https://www.typescriptlang.org"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_typescript_official_icon_130107.png"/></a></code>
-<code><a href="https://nodejs.org"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_node_icon_130301.png"/></a></code>
-<code><a href="https://www.mongodb.com"><img src="https://img.icons8.com/color/48/000000/mongodb.png"/></a></code>
-<code><a href="https://www.docker.com"><img src="https://img.icons8.com/color/48/000000/docker.png"/></a></code>
-<code><a href="https://dotnet.microsoft.com/en-us/"><img src="https://cdn.icon-icons.com/icons2/2415/PNG/48/csharp_original_logo_icon_146578.png"/></a></code>
-<code><a href="https://tailwindcss.com"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_tailwind_icon_130128.png"/></a></code>
-<code><a href="https://getbootstrap.com"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a></code>
-<code><a href="https://github.com"><img src="https://cdn.icon-icons.com/icons2/2107/PNG/48/file_type_git_icon_130581.png"/></a></code>
+- 👨‍💻 All of my projects are available at [https://github.com/iiimatos](https://github.com/iiimatos)
 
-### Interests 📍
-  - CQRS and MediatR
-  - DDD (Domain Driven Design)
-  - Clean Architecture
+- 💬 Ask me about **C# ".Net 5+" & Clean Architecture**
 
-### My Top Skills 💻
+<h3 align="left">Languages and Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=cs,js,ts,html,css,docker,dotnet,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,tailwind,postgres,mongodb,vscode,github)](https://skillicons.dev)
 
 ![Reeveng's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=iiimatos&locale=en&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-### Contact Me 🌎
-<p align="left">
-  <a href="https://www.linkedin.com/in/iv%C3%A1n-ernesto-matos-villar-a00b581b3/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Ivan Matos's LinkedIn Profile" height="30" width="30">
-  </a>
-  <a href="https://github.com/iiimatos">
-    <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Ivan Matos's github Profile" height="30" width="30">  
-  </a>
-  <a href="https://www.instagram.com/iiimatos">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="Ivan Matos's instagram Profile" height="30" width="30">
-  </a>
-</p>
 
----
-⭐️ From [iiimatos](https://github.com/iiimatos)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iiimatos&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
