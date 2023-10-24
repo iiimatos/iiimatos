@@ -1,8 +1,6 @@
 <h1>Hi 👋, I'm Ivan Matos</h1>
 <h3>A Software Engineer from Dominican Republic 🇩🇴</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 - 🔭 I’m currently working on [30-Days-Of-Python-For-DevOps](https://github.com/jaiswaladi246/Python-4-DevOps)
 
 - 🌱 I’m currently learning **CQRS, MediatR, DDD (Domain Driven Design) & Clean Architecture**
@@ -16,6 +14,5 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,js,ts,html,css,docker,dotnet,react)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=nextjs,nodejs,tailwind,postgres,mongodb,vscode,github)](https://skillicons.dev)
 
-![Reeveng's github stats](https://github-readme-stats.vercel.app/api/top-langs?username=iiimatos&locale=en&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=iiimatos&theme=dark&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+<img width=390 src="https://streak-stats.demolab.com/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
