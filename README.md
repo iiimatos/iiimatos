@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Ivan Matos</h1>
 <h3>A Software Engineer from Dominican Republic 🇩🇴</h3>
 
-- 🌱 I’m currently learning **Docker, TDD (Test Driven development) & Clean Architecture**
+- 🌱 I’m currently learning **Docker, Azure, Os, Devops & Clean Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iiimatos](https://github.com/iiimatos)
 
-- 💬 Ask me about **Typescript, Nest.js & Clean Architecture**
+- 💬 Ask me about **Typescript, Next.js, Nest.js & Clean Architecture**
 
 <h3 align="left">Languages and Tools:</h3>
 
