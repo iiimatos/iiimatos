@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Ivan Matos</h1>
 <h3>A Software Engineer from Dominican Republic 🇩🇴</h3>
 
-- 🌱 I’m currently learning **Docker, Azure, Os, Devops & Clean Architecture**
+- 🌱 I’m currently learning **Docker, Azure, OS, Devops & Clean Architecture**
 
 - 👨‍💻 All of my projects are available at [https://github.com/iiimatos](https://github.com/iiimatos)
 
